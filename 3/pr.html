@@ -1,0 +1,88 @@
+﻿
+<!--DOM DOM описывает структуру веб-станицы в виде древовидного 
+представления и предоставляет разработчикам способ получить доступ к отдельным элементам веб-станицы
+
+Если BOM предоставляет доступ к браузеру и его свойствам в целом, то DOM предоставляет доступ к отдельной веб-странице или html-документу и его элементам.
+
+Дерево DOM будет:
+html -- head   -- title -- Page Title
+     \_ body   -- h1 -- Page Header
+	          \_ p -- Text
+
+
+6 методов поиска эл-тов в DOM:
+querySelector, querySelectorAll, getElementById, getElementsBy(Tag | Class)Name
+-->
+
+<!DOCTYPE HTML>
+<html>
+
+ <head>
+  <title>Flexagon</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+
+  <script>
+  function byId(newColor) {
+    var elem = document.getElementById("para1");
+    elem.style.color = newColor;
+  }
+
+  function byTag(newColor) {
+    var hs = document.getElementsByTagName('div');
+    for (let h of hs) h.style.color = newColor;
+  }
+
+  function Potomki(){
+	var divs = document.getElementById("d1");
+	var elems = divs.getElementsByTagName('*');
+  for (let i of elems) alert(i.id)
+  }
+
+  function BigClass(){
+	var elems = document.getElementsByClassName('index');
+  for (let i of elems) i.style.fontSize='24pt';
+  }
+
+  function byCSS() {
+    let i = document.querySelectorAll("div");
+    for (let h of i) h.style.color='grey'
+  }
+  </script>
+
+
+ </head>
+
+
+
+ <body>
+  <h1>Flexagon</h1>
+  <p>hello hello hello.</p>
+  <p id="toc">hello hello hello.</p>
+  <p class="index">hello hello hello.</p>
+  <p autoplay='23'> hello hello hello.</p>
+
+  <div> some div 1 </div>
+  <div> some div 2 </div>
+  <div> some div 3 </div>
+
+  <p id="para1">Some text here</p>
+  <button onclick="byId('blue');">blue</button>
+  <button onclick="byId('red');">red</button> <br/>
+  <button onclick="byTag('yellow');">yellow divs</button>
+  <button onclick="byTag('green');">green divs</button>
+  <button onclick="Potomki()">Potomki</button>
+  <button onclick="BigClass()">BigClass</button>
+  <button onclick="byCSS()">ByCSS</button>
+
+  <div id="d1">
+    <ol id="ol1">
+      <li id="li1">1 li</li>
+      <li id="li2">2 li</li>
+    </ol>
+  </div>
+
+
+ </body>
+
+</html>

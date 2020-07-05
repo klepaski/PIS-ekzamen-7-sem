@@ -1,0 +1,14 @@
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+D:\ЮЛЯ\ЭКЗАМЕН\20\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb

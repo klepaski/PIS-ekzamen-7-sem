@@ -1,0 +1,58 @@
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.deps.json
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.runtimeconfig.json
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.runtimeconfig.dev.json
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.pdb
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.Views.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.Views.pdb
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.csprojAssemblyReference.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.csproj.CoreCompileInputs.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorAssemblyInfo.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorAssemblyInfo.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.AssemblyInfoInputs.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.AssemblyInfo.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.TagHelpers.input.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.TagHelpers.output.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorCoreGenerate.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorTargetAssemblyInfo.cache
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorTargetAssemblyInfo.cs
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.Views.pdb
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.dll
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.pdb
+F:\6 семестр\экзамены\5_ПИС\задачи\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.csproj.CopyComplete
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.deps.json
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.runtimeconfig.json
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.runtimeconfig.dev.json
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.dll
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.Views.dll
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\bin\Debug\netcoreapp2.1\28.Views.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.csprojAssemblyReference.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.csproj.CoreCompileInputs.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorAssemblyInfo.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorAssemblyInfo.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.AssemblyInfoInputs.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.AssemblyInfo.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.TagHelpers.input.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.TagHelpers.output.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorCoreGenerate.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorTargetAssemblyInfo.cache
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.RazorTargetAssemblyInfo.cs
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.Views.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.dll
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.pdb
+D:\ЮЛЯ\ЭКЗАМЕН\28\28.CORE_tagHelper\28\obj\Debug\netcoreapp2.1\28.csproj.CopyComplete
